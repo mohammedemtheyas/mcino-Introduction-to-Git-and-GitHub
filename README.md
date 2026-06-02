@@ -1,7 +1,7 @@
 # Introduction to Git and GitHub
 This line is added for Github Lab
 ## Simple Interest Calculator
-
+typo fix
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 ```
